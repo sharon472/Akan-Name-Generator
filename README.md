@@ -23,7 +23,8 @@ This file is a guide to the project
 - CSS  
 - JavaScript  
 - VS Code  
-- GitHub  
+- GitHub 
+-vercel
 
 ## Contact Information
 - **Email**: waithirasharon222@gmail.com  
