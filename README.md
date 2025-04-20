@@ -9,7 +9,7 @@ Sharon  Njoroge
 ## Setup Instructions
 - Download or clone the repository from GitHub.
 - Open the `index.html` file in your browser to use the app.
-no installation required
+No installation required
 
 ## Behavior-Driven Development (BDD)
 - **Given** a user opens the app  
