@@ -24,7 +24,7 @@ This file is a guide to the project
 - JavaScript  
 - VS Code  
 - GitHub 
--vercel
+- Vercel
 
 ## Contact Information
 - **Email**: waithirasharon222@gmail.com  
