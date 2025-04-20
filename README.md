@@ -5,7 +5,7 @@ This web app takes a user's date of birth and gender and returns their correspon
 This is version 1.0.0
 
 ## Author
-Sharon Waithira  Njoroge
+Sharon Waithira  Njoroge.
 
 ## Setup Instructions
 - Download or clone the repository from GitHub.
@@ -31,7 +31,7 @@ This file is a guide to the project
 - **Phone**: 0112005682 
 Helpline: 1093338872 
 - **GitHub**: [GitHub Profile]*(https://github.com/sharon472/Akan-Name-Generator.git)*
-- **Vercel**: [Live Demo] *( https://akan-name-generator-4l1nwok08-sharon-njoroges-projects.vercel.app)*
+- **Vercel**: [Live Demo] *(https://vercel.com/sharon-njoroges-projects/akan-name-generator/deployments)*
 
 ## License
 MIT License
