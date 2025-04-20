@@ -26,7 +26,7 @@ No installation required
 ## Contact Information
 - **Email**: waithirasharon222@gmail.com  
 - **Phone**: 0112005682 
-helpline: 1093338872 
+Helpline: 1093338872 
 - **GitHub**: [GitHub Profile]*(https://github.com/sharon472/Akan-Name-Generator.git)*
 - **Vercel**: [Live Demo](https://vercel.com/) *(Add your actual Vercel link here)*
 
