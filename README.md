@@ -30,7 +30,7 @@ This file is a guide to the project
 - **Email**: waithirasharon222@gmail.com  
 - **Phone**: 0112005682 
 Helpline: 1093338872 
-- **GitHub**: [GitHub Profile]*(https://github.com/sharon472/Akan-Name-Generator.git)*
+- **GitHub**: [GitHub Profile](*https://sharon472.github.io/Akan-Name-Generator/)*
 - **Vercel**: [Live Demo] *(https://vercel.com/sharon-njoroges-projects/akan-name-generator/deployments)*
 
 ## License
