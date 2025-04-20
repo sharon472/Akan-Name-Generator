@@ -11,7 +11,7 @@ Sharon Waithira  Njoroge
 - Download or clone the repository from GitHub.
 - Open the `index.html` file in your browser to use the app.
 No installation required
-this file is a guide to the project
+This file is a guide to the project
 
 ## Behavior-Driven Development (BDD)
 - **Given** a user opens the app  
