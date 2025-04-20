@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AKAN NAME GENERATOR</title>
+    <link rel="stylesheet" href="styles/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Smooch+Sans:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet"href="index.css">
+
+
+</head>
+<body>
+    <nav class="menu">
+        <div>
+            <a href="#">HOME</a>
+        </div>
+        <div>
+            <a href="#">CONTACT US</a>
+        </div>
+        <div>
+            <a href="#">SIGN UP</a>
+        </div>
+    </nav>
+    <header>
+        <h1>Akan Name Generator</h1>
+        <h2>Uncover your cultural identity with a web app that determines your birth day and assigns you an authentic
+            Akan name, drawn from Ghana’s rich naming tradition.</h2>
+    
+    </header> 
+    <section>
+        <div class ="image"><img src="https://img.freepik.com/premium-photo/midsection-woman-making-necklace_1048944-26410547.jpg?uid=R196783186&ga=GA1.1.1296669108.1745101161&semt=ais_hybrid&w=740" alt="Akan tradition"></div>
+    </section>
+    <form id="form">
+        <div class="data-inputs">
+        <label for="day">Day Born</label>
+        <input type="number" id="day"required min="1" max="31">
+
+        <label for="month">Month Born </label>
+        <input type="number" id="month"required min ="1" max ="12">
+
+        <label for ="year">Year Born</label>
+        <input type ="number" id ="year" required min="1800" max="2700">
+
+        <label >Gender:</label>
+        <label><input type="radio" name="gender" value="male" required> Male</label>
+        <label><input type="radio" name="gender" value="female"> Female</label>
+        </div>
+<div class ="button-container">
+<button type="submit ">Discover your Akan Name</button>
+</div>
+    </form>
+    <div id ="result"></div>
+    <script src="styles/scripts.js"></script>
+
+</body>
+
+</html>
