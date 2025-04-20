@@ -5,7 +5,7 @@ This web app takes a user's date of birth and gender and returns their correspon
 this is version 1.0.0
 
 ## Author
-Sharon waithira  Njoroge
+Sharon Waithira  Njoroge
 
 ## Setup Instructions
 - Download or clone the repository from GitHub.
