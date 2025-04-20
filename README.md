@@ -1,11 +1,10 @@
 # Akan Name Generator
-welcome to my Akan Name Generator
-
+Welcome to my Akan Name Generator
 ## Project Description
 This web app takes a user's date of birth and gender and returns their corresponding Akan name based on Ghanaian tradition.
 
 ## Author
-Sharon Njoroge
+Sharon  Njoroge
 
 ## Setup Instructions
 - Download or clone the repository from GitHub.
@@ -26,7 +25,7 @@ Sharon Njoroge
 ## Contact Information
 - **Email**: waithirasharon222@gmail.com  
 - **Phone**: 0112005682  
-- **GitHub**: [GitHub Profile](https://github.com/) *(Add your actual GitHub link here)*  
+- **GitHub**: [GitHub Profile]*(https://github.com/sharon472/Akan-Name-Generator.git)*
 - **Vercel**: [Live Demo](https://vercel.com/) *(Add your actual Vercel link here)*
 
 ## License
