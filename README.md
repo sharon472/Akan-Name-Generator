@@ -1,7 +1,7 @@
 # Akan Name Generator
 Welcome to my Akan Name Generator
 ## Project Description
-This web app takes a user's date of birth and gender and returns their corresponding Akan name based on Ghanaian tradition.
+This web app takes a user's date of birth and gender and returns their corresponding Akan name based on Ghanaian culture.
 
 ## Author
 Sharon  Njoroge
